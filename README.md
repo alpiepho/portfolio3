@@ -6,7 +6,6 @@ Version 3 using 'Agency' template for Jekyll (server side using Ruby to generate
 ## Next Steps
 
 - review all data
-- link to port2
 - link from port2
 - change redirect
 
