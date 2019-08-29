@@ -1,0 +1,16 @@
+---
+type: podcast
+title: Commandline Heros
+subtitle: history
+layout: default
+modal-id: 204
+date: 2019-01-5
+img: https://alpiepho.github.io/project-portfolio2/images/screenshot-commandline-heros.png
+thumbnail: https://alpiepho.github.io/project-portfolio2/images/screenshot-commandline-heros--thumbnail.png
+alt: image-alt
+project-date: 2019-01-5
+client: Start Bootstrap
+category: Web Development
+description: An original podcast about the people who transform technology from the command line up.
+link: https://www.redhat.com/en/command-line-heroes
+---

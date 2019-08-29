@@ -1,0 +1,16 @@
+---
+type: podcast
+title: Intellegence Squared
+subtitle: opinion
+layout: default
+modal-id: 205
+date: 2019-01-6
+img: iq2logo.png
+thumbnail: iq2logo.png
+alt: image-alt
+project-date: 2019-01-6
+client: Start Bootstrap
+category: Web Development
+description: "Addresses a fundamental problem in America, the extreme polarization of our nation and our politics."
+link: "https://www.intelligencesquaredus.org/podcasts?gclid=Cj0KCQiAhKviBRCNARIsAAGZ7CeomoQ8Vmn5exl03jzlhBEMGMy9TRPToWF5PdD8tf-8sVIGFDXY1HMaAvpNEALw_wcB"
+---

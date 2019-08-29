@@ -17,7 +17,11 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
+                        {% if post.image contains 'http' %}
+                        <img src="{{ post.image }}" class="img-responsive img-centered" alt="">
+                        {% else %}
                         <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        {% endif %}
                     </a>
                     <div class="portfolio-caption">
                         <h4>{{ post.title }}</h4>

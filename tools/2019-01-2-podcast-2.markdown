@@ -1,0 +1,16 @@
+---
+type: podcast
+title: Cyberwire
+subtitle: security
+layout: default
+modal-id: 201
+date: 2019-01-2
+img: https://thecyberwire.com/images/navLogo.png
+thumbnail: https://thecyberwire.com/images/navLogo--thumbnail.png
+alt: image-alt
+project-date: 2019-01-2
+client: Start Bootstrap
+category: Web Development
+description: Cyber sercurity news.
+link: https://thecyberwire.com/podcasts
+---

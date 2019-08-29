@@ -1,0 +1,16 @@
+---
+type: podcast
+title: Software Engineering Daily
+subtitle: software
+layout: default
+modal-id: 200
+date: 2019-01-1
+img: sed_logo_updated.png
+thumbnail: sed_logo_updated.png
+alt: image-alt
+project-date: 2019-01-1
+client: Start Bootstrap
+category: Web Development
+description: A small podcast that covers a broad range of software related subjects.
+link: https://softwareengineeringdaily.com/category/podcast/
+---
