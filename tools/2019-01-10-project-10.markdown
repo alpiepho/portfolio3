@@ -1,0 +1,15 @@
+---
+title: Water anaylsis
+subtitle: work
+layout: default
+modal-id: 109
+date: 2014-07-19
+img: firmware-sc200.jpeg
+thumbnail: firmware-sc200--thumbnail.jpeg
+alt: image-alt
+project-date: 2019-01-10
+client: Start Bootstrap
+category: Web Development
+description: Developed firmware for pending water analysis controllers and sensors.
+link: undefined
+---

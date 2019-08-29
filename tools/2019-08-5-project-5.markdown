@@ -1,0 +1,15 @@
+---
+title: Site Evaluations
+subtitle: personal
+layout: default
+modal-id: 104
+date: 2014-07-19
+img: screenshot-site-eval.png
+thumbnail: screenshot-site-eval--thumbnail.png
+alt: image-alt
+project-date: 2019-08-5
+client: Start Bootstrap
+category: Web Development
+description: Followup on an idea to use a handful of developer tools to create complementory site evaluation reports.  Good way to learn more about various websites.
+link: https://alpiepho.github.io/site-evaluation-all/
+---

@@ -1,3 +1,29 @@
+
+# Summary
+
+Version 3 using 'Agency' template for Jekyll (server side using Ruby to generate static pages).
+
+
+## Next Steps
+
+- convert porfolio2 project list
+- rename ast project-portfolio3
+- cleanup sections (services -> skills, fw, net, web??)
+- review all data
+- review data
+- link to port2
+- link from port2
+- change redirect
+- cleanup READM.md
+
+
+:construction: WORK IN PROGRESS 
+
+<hr/>
+<hr/>
+<hr/>
+
+
 Agency Jekyll theme
 ====================
 

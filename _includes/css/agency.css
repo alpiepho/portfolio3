@@ -363,7 +363,10 @@ section h3.section-subheading {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 400px;
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    background-color: #ddd;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
