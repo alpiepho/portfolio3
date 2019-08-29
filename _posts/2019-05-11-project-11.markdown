@@ -1,9 +1,10 @@
 ---
+type: project
 title: VS Code Plugin
 subtitle: personal
 layout: default
 modal-id: 110
-date: 2014-07-19
+date: 2019-05-11
 img: screenshot-rpn-hex-vscode.png
 thumbnail: screenshot-rpn-hex-vscode--thumbnail.png
 alt: image-alt

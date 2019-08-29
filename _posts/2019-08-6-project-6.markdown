@@ -1,9 +1,10 @@
 ---
+type: project
 title: My Blog
 subtitle: personal
 layout: default
 modal-id: 105
-date: 2014-07-19
+date: 2019-08-6
 img: screenshot-my-blog.png
 thumbnail: screenshot-my-blog--thumbnail.png
 alt: image-alt

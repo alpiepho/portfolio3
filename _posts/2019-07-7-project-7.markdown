@@ -1,9 +1,10 @@
 ---
+type: project
 title: State of Development Force Graph - PWA
 subtitle: personal
 layout: default
 modal-id: 106
-date: 2014-07-19
+date: 2019-07-7
 img: screenshot-state-pwa.png
 thumbnail: screenshot-state-pwa--thumbnail.png
 alt: image-alt

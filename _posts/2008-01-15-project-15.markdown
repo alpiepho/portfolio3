@@ -1,9 +1,10 @@
 ---
+type: project
 title: Digital Video
 subtitle: work
 layout: default
 modal-id: 114
-date: 2014-07-19
+date: 2008-01-15
 img: firmware-pelco-sarix_1.jpg
 thumbnail: firmware-pelco-sarix_1--thumbnail.jpg
 alt: image-alt

@@ -1,8 +1,9 @@
 ---
+type: podcast
 title: Digital Video
 subtitle: work
 layout: default
-modal-id: 114
+modal-id: 200
 date: 2014-07-19
 img: firmware-pelco-sarix_1.jpg
 thumbnail: firmware-pelco-sarix_1--thumbnail.jpg

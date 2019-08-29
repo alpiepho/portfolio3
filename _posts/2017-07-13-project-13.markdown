@@ -1,9 +1,10 @@
 ---
+type: project
 title: CSS Challenge
 subtitle: personal
 layout: default
 modal-id: 112
-date: 2014-07-19
+date: 2017-07-13
 img: screenshot-purecss.png
 thumbnail: screenshot-purecss--thumbnail.png
 alt: image-alt

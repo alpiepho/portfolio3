@@ -1,9 +1,10 @@
 ---
+type: project
 title: Water Anaylsis
 subtitle: work
 layout: default
 modal-id: 109
-date: 2014-07-19
+date: 2019-01-10
 img: firmware-sc200.jpeg
 thumbnail: firmware-sc200--thumbnail.jpeg
 alt: image-alt

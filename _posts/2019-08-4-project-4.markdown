@@ -3,7 +3,7 @@ title: Any Counter
 subtitle: personal
 layout: default
 modal-id: 103
-date: 2014-07-19
+date: 2019-08-4
 img: screenshot-any-counter.png
 thumbnail: screenshot-any-counter--thumbnail.png
 alt: image-alt

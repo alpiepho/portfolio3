@@ -1,9 +1,10 @@
 ---
+type: project
 title: Simple Score VB (PWA)
 subtitle: personal
 layout: default
 modal-id: 100
-date: 2014-07-19
+date: 2019-08-1
 img: screenshot-vb-pwa.png
 thumbnail: screenshot-vb-pwa--thumbnail.png
 alt: image-alt

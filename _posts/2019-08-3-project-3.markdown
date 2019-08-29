@@ -1,9 +1,10 @@
 ---
+type: project
 title: Terms PWA Starter
 subtitle: personal
 layout: default
 modal-id: 102
-date: 2014-07-19
+date: 2019-08-3
 img: screenshot-terms-pwa-starter.png
 thumbnail: screenshot-terms-pwa-starter--thumbnail.png
 alt: image-alt
