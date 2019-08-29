@@ -2,82 +2,58 @@
 var site = require('./siteConfig');
 
 console.log("Converting data from project-portfolio2...");
+console.log("")
+console.log("site.jobs: ")
+console.log("<ul class=\"timeline\">")
 
-console.log(site.jobs)
+let i 
+for (i=0; i<site.jobs.length; i++) {
+    let job = site.jobs[i]
+    console.log("<li" + (i%2 ? " class=\"timeline-inverted\"" : "" ) + ">")
+    // console.log("<div class=\"timeline-image\">")
+    // console.log("    <img class=\"img-circle img-responsive\" src=\"img/about/1.jpg\" alt=\"\">")
+    // console.log("</div>")
+    console.log("<div class=\"timeline-panel\">")
+    console.log("    <div class=\"timeline-heading\">")
+    console.log("        <h4>" + job.company + "</h4>")
+    console.log("        <h4>" + job.begin.month.toUpperCase() + " " + job.begin.year + "</h4>")
+    console.log("        <h4>" + (job.duration ? job.duration.toUpperCase() : "PRESENT") + "</h4>")
+    console.log("        <h4 class=\"subheading\">" + job.occupation + "</h4>")
+    console.log("    </div>")
+    console.log("    <div class=\"timeline-body\">")
+    console.log("        <p class=\"text-muted\">" + job.description + "</p>")
+    console.log("    </div>")
+    console.log("</div>")
+    console.log("</li>")
+}
 
+// console.log("<li class=\"timeline-inverted\">")
+// console.log("    <div class=\"timeline-image\">")
+// console.log("        <h4>The")
+// console.log("            <br>Next")
+// console.log("            <br>Chapter?</h4>")
+// console.log("    </div>")
+// console.log("</li>")
 
-
-
-// Want carreer details like:
-
-{/* <ul class="timeline">
-<li>
-    <div class="timeline-image">
-        <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
-    </div>
-    <div class="timeline-panel">
-        <div class="timeline-heading">
-            <h4>2009-2011</h4>
-            <h4 class="subheading">Our Humble Beginnings</h4>
-        </div>
-        <div class="timeline-body">
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-        </div>
-    </div>
-</li>
-<li class="timeline-inverted">
-    <div class="timeline-image">
-        <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
-    </div>
-    <div class="timeline-panel">
-        <div class="timeline-heading">
-            <h4>March 2011</h4>
-            <h4 class="subheading">An Agency is Born</h4>
-        </div>
-        <div class="timeline-body">
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-        </div>
-    </div>
-</li>
-<li>
-    <div class="timeline-image">
-        <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
-    </div>
-    <div class="timeline-panel">
-        <div class="timeline-heading">
-            <h4>December 2012</h4>
-            <h4 class="subheading">Transition to Full Service</h4>
-        </div>
-        <div class="timeline-body">
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-        </div>
-    </div>
-</li>
-<li class="timeline-inverted">
-    <div class="timeline-image">
-        <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
-    </div>
-    <div class="timeline-panel">
-        <div class="timeline-heading">
-            <h4>July 2014</h4>
-            <h4 class="subheading">Phase Two Expansion</h4>
-        </div>
-        <div class="timeline-body">
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-        </div>
-    </div>
-</li>
-<li class="timeline-inverted">
-    <div class="timeline-image">
-        <h4>Be Part
-            <br>Of Our
-            <br>Story!</h4>
-    </div>
-</li>
-</ul> */}
+console.log("</ul>")
+console.log("")
 
 
-// Want project sto be like:
+
+
+
+// title: "Simple Score VB (PWA)",
+// begin: {
+//   month: 'aug',
+//   year: '2019'
+// },
+// type: "personal",
+// image: "./images/screenshot-vb-pwa.png",
+// link: "https://github.com/alpiepho/simple-score-volleyball-pwa/",
+// description: "A Gatsby-based PWA to score Volleyball with and option to send text message, using Netlify Lambda and Twilio on the backend."
+
+
+// Want project to be like:
 
 // ls -1 _posts
 // 2014-07-13-project-6.markdown
