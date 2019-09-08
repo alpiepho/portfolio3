@@ -292,7 +292,7 @@ module.exports = {
     github: "https://github.com/alpiepho",
     email: "alpiepho@gmail.com",
     resume: "./images/ResumeAlPiepho_public.pdf",
-    blog: "https://alpiepho.github.io/my-blog"
+    blog: "https://alpiepho.github.io/my-blog2"
   },
   siteUrl: 'https://alpiepho.github.io/project-portfolio2',
   pathPrefix: '/project-portfolio2', // Note: it must *not* have a trailing slash.
