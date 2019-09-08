@@ -133,7 +133,7 @@ module.exports = {
       },
       type: "personal",
       image: "./images/screenshot-my-blog.png",
-      link: "https://alpiepho.github.io/my-blog/",
+      link: "https://alpiepho.github.io/my-blog2/",
       description: "Started a personal blog using React/Gatsby.  Original setup and deploy took about an hour!"
 
     }, 
