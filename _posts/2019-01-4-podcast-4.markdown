@@ -4,11 +4,11 @@ title: Akimbo
 subtitle: life
 layout: default
 modal-id: 203
-date: 2019-01-4
+date: 2019-01-04
 img: akimbo.png
 thumbnail: akimbo--thumbnail.png
 alt: image-alt
-project-date: 2019-01-4
+project-date: 2019-01-04
 client: Start Bootstrap
 category: Web Development
 description: A podcast by Seth Godin, random insights on life.

@@ -4,11 +4,11 @@ title: Terms PWA Starter
 subtitle: personal
 layout: default
 modal-id: 102
-date: 2019-08-3
+date: 2019-08-03
 img: screenshot-terms-pwa-starter.png
 thumbnail: screenshot-terms-pwa-starter--thumbnail.png
 alt: image-alt
-project-date: 2019-08-3
+project-date: 2019-08-03
 client: Start Bootstrap
 category: Web Development
 description: My first Gatsby Starter.  A Gatsby starter for a PWA that shows a list of terms and other details about the terms.

@@ -4,11 +4,11 @@ title: Python Bytes
 subtitle: python
 layout: default
 modal-id: 202
-date: 2019-1-3
+date: 2019-01-03
 img: pythonbytes.png
 thumbnail: pythonbytes.png
 alt: image-alt
-project-date: 2019-01-3
+project-date: 2019-01-03
 client: Start Bootstrap
 category: Web Development
 description: Python Headlines delivered to your Earbugs. (and some decent/bad Dad jokes)

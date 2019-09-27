@@ -4,11 +4,11 @@ title: Commandline Heros
 subtitle: history
 layout: default
 modal-id: 204
-date: 2019-01-5
+date: 2019-01-05
 img: screenshot-commandline-heros.png
 thumbnail: screenshot-commandline-heros.png
 alt: image-alt
-project-date: 2019-01-5
+project-date: 2019-01-05
 client: Start Bootstrap
 category: Web Development
 description: An original podcast about the people who transform technology from the command line up.

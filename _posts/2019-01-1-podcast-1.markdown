@@ -4,11 +4,11 @@ title: Software Engineering Daily
 subtitle: software
 layout: default
 modal-id: 200
-date: 2019-01-1
+date: 2019-01-01
 img: sed_logo_updated.png
 thumbnail: sed_logo_updated.png
 alt: image-alt
-project-date: 2019-01-1
+project-date: 2019-01-01
 client: Start Bootstrap
 category: Web Development
 description: A small podcast that covers a broad range of software related subjects.

@@ -3,11 +3,11 @@ title: Any Counter
 subtitle: personal
 layout: default
 modal-id: 103
-date: 2019-08-4
+date: 2019-08-04
 img: screenshot-any-counter.png
 thumbnail: screenshot-any-counter--thumbnail.png
 alt: image-alt
-project-date: 2019-08-4
+project-date: 2019-08-04
 client: Start Bootstrap
 category: Web Development
 description: Converted LeetCode algorithm into simple Progressive Web App (PWA), with perfect LightHouse scores!

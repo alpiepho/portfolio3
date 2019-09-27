@@ -4,11 +4,11 @@ title: Cyberwire
 subtitle: security
 layout: default
 modal-id: 201
-date: 2019-01-2
+date: 2019-01-02
 img: cyberwire.png
 thumbnail: cyberwire.png
 alt: image-alt
-project-date: 2019-01-2
+project-date: 2019-01-02
 client: Start Bootstrap
 category: Web Development
 description: Cyber sercurity news.

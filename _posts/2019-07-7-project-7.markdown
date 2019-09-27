@@ -4,11 +4,11 @@ title: State of Development Force Graph - PWA
 subtitle: personal
 layout: default
 modal-id: 106
-date: 2019-07-7
+date: 2019-07-07
 img: screenshot-state-pwa.png
 thumbnail: screenshot-state-pwa--thumbnail.png
 alt: image-alt
-project-date: 2019-07-7
+project-date: 2019-07-07
 client: Start Bootstrap
 category: Web Development
 description: A PWA (Progressive Web App) using D3 to show data from the 'State of Javascript 2018' and 'State of CSS 2019'

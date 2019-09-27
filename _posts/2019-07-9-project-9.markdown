@@ -4,11 +4,11 @@ title: Baseball Stats Gather/View
 subtitle: personal
 layout: default
 modal-id: 108
-date: 2019-07-9
+date: 2019-07-09
 img: screenshot-react-stats-bsb.png
 thumbnail: screenshot-react-stats-bsb--thumbnail.png
 alt: image-alt
-project-date: 2019-07-9
+project-date: 2019-07-09
 client: Start Bootstrap
 category: Web Development
 description: Web crawler using Puppeteer/Headless Chrome along with a React site to view stats.

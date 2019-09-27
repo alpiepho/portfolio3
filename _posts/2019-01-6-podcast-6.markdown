@@ -4,11 +4,11 @@ title: Intellegence Squared
 subtitle: opinion
 layout: default
 modal-id: 205
-date: 2019-01-6
+date: 2019-01-06
 img: iq2logo.png
 thumbnail: iq2logo.png
 alt: image-alt
-project-date: 2019-01-6
+project-date: 2019-01-06
 client: Start Bootstrap
 category: Web Development
 description: "Addresses a fundamental problem in America, the extreme polarization of our nation and our politics."
