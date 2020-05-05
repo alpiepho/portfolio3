@@ -12,5 +12,5 @@ project-date: 2019-08-06
 client: Start Bootstrap
 category: Web Development
 description: Started a personal blog using React/Gatsby.  Original setup and deploy took about an hour!
-link: https://alpiepho.github.io/my-blog/
+link: https://alpiepho.github.io/my-blog2/
 ---
